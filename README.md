@@ -12,7 +12,7 @@
 ## 📸 Dashboard Screenshots
 
 ### Overview Page
-![Dashboard Overview](images/dashboard-1.png)
+![Dashboard Overview](images/1.png)
 
 ### Triggers Analysis
 ![Triggers Analysis](images/2.png)
