@@ -9,3 +9,13 @@
  **Notes:** Filterable event notes for context
  **Interactivity:** Slicers (date, triggers, severity), bookmarks for guided views
 
+## 📸 Dashboard Screenshots
+
+### Overview Page
+![Dashboard Overview](images/dashboard-1.png)
+
+### Triggers Analysis
+![Triggers Analysis](images/2.png)
+
+### Severity Trend
+![Severity Trend](3.png)
