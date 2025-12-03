@@ -16,6 +16,9 @@
 ## 📸 Dashboard Screenshots
 
 ### Overview
+## 📸 Dashboard Screenshots
+
+### Overview
 ![Overview](images/Screenshot%202025-12-03%20174432.png)
 
 ### Triggers Analysis
@@ -26,5 +29,6 @@
 
 ### Notes/Details
 ![Notes](images/Screenshot%202025-12-03%20174612.png)
+
 
 
