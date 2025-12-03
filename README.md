@@ -11,11 +11,17 @@
 
 ## 📸 Dashboard Screenshots
 
-### Overview Page
-![Dashboard Overview](images/1.png)
+## 📸 Dashboard Screenshots
 
-### Triggers Analysis
-![Triggers Analysis](images/2.png)
+### Screenshot 1 — Overview
+![Overview](images/1.png)
 
-### Severity Trend
-![Severity Trend](3.png)
+### Screenshot 2 — Triggers Analysis
+![Triggers](images/2.png)
+
+### Screenshot 3 — Severity Trend
+![Severity](images/3.png)
+
+### Screenshot 4 — Notes/Details
+![Notes](images/4.png)
+
