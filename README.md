@@ -13,15 +13,18 @@
 
 ## 📸 Dashboard Screenshots
 
-### Screenshot 1 — Overview
-![Overview](images/1.png)
+## 📸 Dashboard Screenshots
 
-### Screenshot 2 — Triggers Analysis
-![Triggers](images/2.png)
+### Overview
+![Overview](images/Screenshot%202025-12-03%20174432.png)
 
-### Screenshot 3 — Severity Trend
-![Severity](images/3.png)
+### Triggers Analysis
+![Triggers](images/Screenshot%202025-12-03%20174505.png)
 
-### Screenshot 4 — Notes/Details
-![Notes](images/4.png)
+### Severity Trend
+![Severity](images/Screenshot%202025-12-03%20174540.png)
+
+### Notes/Details
+![Notes](images/Screenshot%202025-12-03%20174612.png)
+
 
